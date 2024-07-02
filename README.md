@@ -8,7 +8,8 @@ Mentor: SRAVANI GOUNI
 Overview of the project:
 
 Project: Chat Application
-![Screenshot (19)](https://github.com/teju1906/CODTECH.task1/assets/173791327/aa8dbd37-f174-46d3-bda0-6eb48db5d8ff)
+![Screenshot (19)](https://github.com/tejaswini0601/CODTECH-task1/assets/174233804/48835a20-d83b-47c5-bae5-ddd6661941c0)
+
 
 objective:
 The objective of this project is to demonstrate basic implementation of a chat application using HTML, CSS, and JavaScript. It showcases how user input can be processed and responded to using predefined patterns, mimicking a conversation between a user and a bot.
